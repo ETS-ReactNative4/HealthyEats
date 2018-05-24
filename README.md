@@ -1,4 +1,4 @@
-# csc413-SecondGame Team 20
+# HealthyEats Мobile Аpp
 
 
 ## Team members:
